@@ -64,9 +64,9 @@ I am actively seeking **entry-level Data Scientist / Associate Data Scientist ro
 
 ## Contact Information
 
-* **LinkedIn:** [https://www.linkedin.com/in/kssb990/](https://www.linkedin.com/in/kssb990/)
-* **Email:** [kssb990@gmail.com](mailto:kssb990@gmail.com)
-* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* **LinkedIn:** [https://www.linkedin.com/in/kahkashabanu1/](https://www.linkedin.com/in/kahkashabanu1/)
+* **Email:** [kahkashabanu1@gmail.com](mailto:kahkashabanu1@gmail.com)
+* **GitHub:** [https://github.com/kahkasha-stack](https://github.com/kahkasha-stack)
 
 ---
 
